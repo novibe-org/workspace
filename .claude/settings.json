@@ -1,0 +1,10 @@
+{
+  "extraKnownMarketplaces": {
+    "nv-plugins": {
+      "source": { "source": "github", "repo": "novibe-org/novibe" }
+    }
+  },
+  "enabledPlugins": {
+    "novibe@nv-plugins": true
+  }
+}
