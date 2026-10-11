@@ -1,6 +1,7 @@
 {
   "name": "novibe",
   "image": "mcr.microsoft.com/devcontainers/typescript-node:22",
+  "runArgs": ["--restart=unless-stopped"],
   "features": {
     "ghcr.io/anthropics/devcontainer-features/claude-code:1": {},
     "ghcr.io/devcontainers/features/github-cli:1": {},
