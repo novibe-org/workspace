@@ -6,6 +6,7 @@ Workspace for novibe. Each repo lives as a normal git repo under `projects/`:
 - `projects/nv`: the `nv` workspace CLI
 - `projects/manifesto`: the manifesto site
 - `projects/agentbox`: the remote session stack these sessions run on
+- `projects/gherkin-lint-plus`: the Gherkin linter the flow depends on, our fork published as `@novibe-org/gherkin-lint-plus`
 
 Never `git add projects/` in this repo; that would turn the repos into gitlinks.
 
