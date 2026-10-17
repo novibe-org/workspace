@@ -2,8 +2,7 @@
 
 Workspace for novibe. Each repo lives as a normal git repo under `projects/`:
 
-- `projects/novibe`: the NoVibe method, its Claude Code plugin and the portal
-- `projects/nv`: the `nv` workspace CLI
+- `projects/novibe`: the NoVibe method and its Claude Code plugin
 - `projects/manifesto`: the manifesto site
 - `projects/agentbox`: the remote session stack these sessions run on
 - `projects/gherkin-lint-plus`: the Gherkin linter the flow depends on, our fork published as `@novibe-org/gherkin-lint-plus`
